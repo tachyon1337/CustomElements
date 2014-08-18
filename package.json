@@ -2,6 +2,8 @@
   "name": "CustomElements",
   "description": "Polyfill for W3C CustomElements Specification",
   "version": "0.3.5",
+  "author": "Polymer Authors",
+  "license": "BSD",
   "repository": {
         "type": "git",
         "url": "https://github.com/tachyon1337/CustomElements.git"
@@ -17,7 +19,6 @@
     "karma-crbot-reporter": "*",
     "karma-firefox-launcher": "*",
     "karma-ie-launcher": "*",
-    "karma-mocha": "*",
     "karma-safari-launcher": "*",
     "karma-script-launcher": "*",
     "mocha": "*"
