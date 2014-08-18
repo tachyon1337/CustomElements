@@ -1,4 +1,4 @@
-/node_modules
+node_modules/
 npm-debug.log
 /custom-elements.min.js
 /custom-elements.min.source-map.js
