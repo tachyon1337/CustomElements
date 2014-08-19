@@ -1,5 +1,6 @@
 {
-  "name": "CustomElements",
+  "name": "Polymer-CustomElements",
+  "title": "Polymer CustomElements",
   "description": "Polyfill for W3C CustomElements Specification",
   "version": "0.3.5",
   "author": "Polymer Authors",
